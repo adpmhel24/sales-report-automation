@@ -1,0 +1,13 @@
+sale_id,date,product,quantity,unit_price,payment_method
+S001,2026-10-19,Bread Loaf,5,85.00,Cash
+S002,2026-10-19,Flour 1kg,3,65.00,GCash
+S003,2026-10-19,Cookies Pack,8,45.00,Cash
+S004,2026-10-19,Bread Loaf,4,85.00,Maya
+S005,2026-10-20,Flour 1kg,6,65.00,Cash
+S006,2026-10-20,Cookies Pack,5,45.00,GCash
+S007,2026-10-20,Cake Slice,7,95.00,Cash
+S008,2026-10-20,Bread Loaf,3,85.00,Maya
+S009,2026-10-21,Cake Slice,4,95.00,GCash
+S010,2026-10-21,Flour 1kg,5,65.00,Cash
+S011,2026-10-21,Cookies Pack,6,45.00,Maya
+S012,2026-10-21,Bread Loaf,7,85.00,Cash
